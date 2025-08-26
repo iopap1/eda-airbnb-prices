@@ -1,5 +1,5 @@
 # eda-airbnb-prices
-Exploratory Data Analysis on Airbnb prices
+# Exploratory Data Analysis on Airbnb prices
 **Goal:** Explore patterns in Airbnb listing prices and discover what drives price differences.
 
 ## Dataset
